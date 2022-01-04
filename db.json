@@ -32,5 +32,38 @@
       "durasi": "60",
       "jumlah_soal": "20"
     }
+  ],
+  "bank_soal": [
+    {
+      "id": 1,
+      "bank_soal": "123456",
+      "matkul": "Dasar Pemrograman"
+    },
+    {
+      "bank_soal": "101235",
+      "id": 2,
+      "matkul": "Kalkulus"
+    }
+  ],
+  "profil_mahasiswa": [
+    {
+      "angkatan": "2017",
+      "email": "Hadi@hadi.com",
+      "id": 1,
+      "nama": "Hadi, S.Pd",
+      "nim": "001",
+      "sandi": "123456",
+      "telpon": "0856124596325"
+    }
+  ],
+  "profil_dosen": [
+    {
+      "email": "email@dosen.com",
+      "id": 1,
+      "nama": "Dosen",
+      "nip": "001",
+      "sandi": "123456",
+      "telpon": "0856125441123"
+    }
   ]
 }
