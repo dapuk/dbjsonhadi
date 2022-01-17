@@ -127,24 +127,24 @@
   "profil_mahasiswa": [
     {
       "angkatan": "2017",
-      "email": "Hadi@hadi.com",
+      "email": "mhadi.nasa@gmail.com",
       "id": 1,
-      "nama": "Hadi, S.Pd",
-      "nim": "001",
+      "nama": "Muhammad Hadiyatullah",
+      "nim": "1512617005",
       "sandi": "123456",
-      "telpon": "0856124596325"
+      "telpon": "087780997223"
     }
   ],
   "profil_dosen": [
     {
-      "email": "email@dosen.com",
+      "email": "hadiyatullah@unj.ac.id",
       "id": 1,
-      "nama": "Dosen",
-      "nip": "001",
-      "nidk": "001",
-      "nidn": "001",
+      "nama": "Hadiyatullah, S.Pd, M.T",
+      "nip": "189123456789101112",
+      "nidk": "0034567891",
+      "nidn": "-",
       "sandi": "123456",
-      "telpon": "0856125441123"
+      "telpon": "-"
     }
   ]
 }
